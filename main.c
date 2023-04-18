@@ -1,9 +1,8 @@
 #include<stdio.h>
-#include "hoangnhan2345.c"
-#include "hoangnhan3456.c"
+#include "thuvien.c"
 
 int main(){
-	say_hoangnhan2345();
-	say_hoangnhan3456();
+	chao_hoangnhan2345();
+	chao_hoangnhan3456();
 	return 0;
 }
